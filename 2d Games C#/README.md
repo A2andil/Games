@@ -1,9 +1,7 @@
-<span style="text-align : center">In the name of Allah</span>
-
 ## [01- Picture Puzzle Game](/C%23%20Projects/01-%20Picture%20Puzzle%20Game)
        image divided into parts Randomly and player can swap part with Empty part to get the orignal image.
        
-![Barcode](/Graphics/Resources/puzzle_game.PNG)
+![Puzzle Game](/Thumbnails/puzzle_game.PNG)
 
 ## [02- Snake Game](/C%23%20Projects/07-%20Snake%20Game)
       Snake Game, everyone knows this game.
