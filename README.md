@@ -1,4 +1,4 @@
-## 2d games C# :
+## 2D Games C# :
        01. Picture puzzle game.
        02. Snake game.
        03. Tic tac toe game.
